@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Build directory
+/dist
+/build
+
+# IDEs
+.vscode/
+.idea/
+
+# Log files
+*.log
