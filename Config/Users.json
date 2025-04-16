@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      // to be edited //
+      "username": "systet",
+      "email": "sistem@sis.tem",
+      "password": "Stuner316@",
+      "role": "founder",
+      "protected": true
+    }
+  ]
+}
