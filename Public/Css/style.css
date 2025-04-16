@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: white;
+}
+header {
+  background-color: red;
+  padding: 20px;
+  text-align: center;
+}
