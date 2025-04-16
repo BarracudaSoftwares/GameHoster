@@ -1,0 +1,15 @@
+{
+  "name": "gamehoster",
+  "version": "1.0.0",
+  "description": "A Pterodactyl-based server management panel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server-manager.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pterodactyl-api": "^1.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
