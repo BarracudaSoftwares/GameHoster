@@ -1,0 +1,6 @@
+{
+  "default_server_limit": 1,
+  "default_cpu": "1",
+  "default_memory": "1024MB",
+  "default_disk": "10GB"
+}

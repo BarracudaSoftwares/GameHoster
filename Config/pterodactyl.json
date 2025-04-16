@@ -1,0 +1,5 @@
+{
+  "url": "https://your-pterodactyl-url",
+  "api_key": "your-api-key",
+  "port": 8080
+}
